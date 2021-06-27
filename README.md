@@ -3,7 +3,7 @@
 
 本项目使用了Background Matting Model模型用于实时背景替换，以及EfficientDet-D0模型用于手势识别。通过结合这些模型我们完成了一个可以通过玩家手势实时抠图并进行背景更换的小游戏，效果如下所示。
 
-![](.\demo.gif)
+<img src="./demo.gif"/>
 
 ## 项目构成
 
