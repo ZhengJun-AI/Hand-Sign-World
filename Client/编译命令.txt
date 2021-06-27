@@ -1,0 +1,4 @@
+pyuic5 -o MainWindow.py MainWindow.ui
+pyuic5 -o display.py display.ui
+pyuic5 -o members.py members.ui
+pyrcc5 -o source.py source.qrc

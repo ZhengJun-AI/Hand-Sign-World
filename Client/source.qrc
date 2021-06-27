@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file>imgs/1.jpg</file>
+    <file>imgs/background_final.png</file>
+    <file>newbgr/8.jpg</file>
+  </qresource>
+</RCC>
