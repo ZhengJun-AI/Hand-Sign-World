@@ -26,6 +26,8 @@
 * opencv-python
 * GPU 显存至少 11G
 
+## 运行方法
+
 首先根据具体情况修改 Client/GUI.py 文件中的第20行，将其中的 IP 地址改为服务器地址。
 
 ```python
