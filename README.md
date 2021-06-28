@@ -15,6 +15,7 @@
 客户端
 
 * Python 3.8
+* PyTorch >= 1.7.1
 * PyQt5
 * opencv-python
 
